@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+    <chinesechar>
+        <tone>1</tone>
+        <character>發</character>
+        <pinyin>fā</pinyin>
+        <mean>rambut</mean>      
+        <clue>Ruwet kayak rambut</clue>
+		<use>發音 fāyīn (pronounciation)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>音</character>
+        <pinyin>yīn</pinyin>
+        <mean>suara</mean>       
+        <clue>-</clue>
+		<use>發音 fāyīn (pronounciation)</use>
+    </chinesechar>   
+    <chinesechar>
+        <tone>1</tone>
+        <character>聲</character>
+        <pinyin>Shēng</pinyin>
+        <mean>suara</mean>      
+        <clue>-</clue>
+		<use>聲調 Shēngdiào (intonation)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>調</character>
+        <pinyin>diào</pinyin>
+        <mean>nada</mean>      
+        <clue>-</clue>
+		<use>聲調 Shēngdiào (intonation)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>練</character>
+        <pinyin>Liàn</pinyin>
+        <mean>practice</mean>      
+        <clue>-</clue>
+		<use>練習 Liànxí (exercise)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>2</tone>
+        <character>習</character>
+        <pinyin>xí</pinyin>
+        <mean>learning</mean>      
+        <clue>-</clue>
+		<use>練習 Liànxí (exercise)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>請</character>
+        <pinyin>Qǐng</pinyin>
+        <mean>please</mean>      
+        <clue>-</clue>
+		<use>請看第 Qǐngkàndì (please turn to..)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>看</character>
+        <pinyin>kàn</pinyin>
+        <mean>learning</mean>      
+        <clue>-</clue>
+		<use>請看第 Qǐngkàndì (please turn to..)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>第</character>
+        <pinyin>dì</pinyin>
+        <mean>learning</mean>      
+        <clue>-</clue>
+		<use>請看第 Qǐngkàndì (please turn to..)</use>
+    </chinesechar>
+		<chinesechar>
+        <tone>4</tone>
+        <character>課</character>
+        <pinyin>Kè</pinyin>
+        <mean>lesson</mean>      
+        <clue>-</clue>
+		<use>課 Kè (lesson)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>頁</character>
+        <pinyin>Yè</pinyin>
+        <mean>Page</mean>      
+        <clue>-</clue>
+		<use>頁 Yè (page)</use>
+    </chinesechar>
+</chinesechars> 

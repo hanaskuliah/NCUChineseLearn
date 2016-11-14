@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChineseEasy1</string>
+    <string name="title_activity_main2">Chinese Easy NCU</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
