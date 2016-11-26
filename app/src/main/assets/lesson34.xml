@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+    <chinesechar>
+        <tone>1</tone>
+        <character>先</character>
+        <pinyin>Xiān</pinyin>
+        <mean>yang awal, pertama</mean>      
+        <clue>pria berotot</clue>
+		<use>先生 Xiānshēng (Tuan / Mr.)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>生</character>
+        <pinyin>shēng</pinyin>
+        <mean>kesehatan</mean>      
+        <clue>tiang/pohon dan burung menclok</clue>
+		<use>先生 Xiānshēng (Tuan / Mr.)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>3</tone>
+        <character>小</character>
+        <pinyin>Xiǎo</pinyin>
+        <mean>kecil</mean>      
+        <clue>anak kecil </clue>
+		<use>小姐 Xiǎojiě (nona / ms. )</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>3</tone>
+        <character>姐</character>
+        <pinyin>jiě</pinyin>
+        <mean>saudara perempuan</mean>      
+        <clue>karakter wanita dan lemari </clue>
+		<use>小姐 Xiǎojiě (nona / ms.)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>4</tone>
+        <character>太</character>
+        <pinyin>Tài</pinyin>
+        <mean>senior, orang yang lebih tua</mean>      
+        <clue>wanita dengan gaun </clue>
+		<use>太太 Tàitai (Nyonya / Mrs.)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>3</tone>
+        <character>老</character>
+        <pinyin>Lǎo</pinyin>
+        <mean>tua</mean>      
+        <clue>huruf t / orang tua bertongkat</clue>
+		<use>老師 Lǎoshī (guru)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>師</character>
+        <pinyin>shī</pinyin>
+        <mean>division</mean>      
+        <clue>orang membawa lampion</clue>
+		<use>老師 Lǎoshī (guru)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>師</character>
+        <pinyin>shī</pinyin>
+        <mean>division</mean>      
+        <clue>orang membawa lampion</clue>
+		<use>老師 Lǎoshī (guru)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>他</character>
+        <pinyin>Tā</pinyin>
+        <mean>dia (laki-laki)</mean>      
+        <clue>(karakter laki2) tiang dan penunjuk</clue>
+		<use>他們 Tāmen (mereka)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>1</tone>
+        <character>她</character>
+        <pinyin>Tā</pinyin>
+        <mean>dia (perempuan)</mean>      
+        <clue>(karakter perempuan) wanita silang kaki dan penunjuk </clue>
+		<use>她們 Tāmen (mereka)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>2</tone>
+        <character>學</character>
+        <pinyin>Xué</pinyin>
+        <mean>belajar</mean>      
+        <clue>orang membawa tumpukan buku dikepala</clue>
+		<use>學生 Xuéshēng (murid pelajar)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>2</tone>
+        <character>同</character>
+        <pinyin>Tóng</pinyin>
+        <mean>--dengan--</mean>      
+        <clue>bentuk mirip gong</clue>
+		<use>同學 Tóngxué (murid / pelajar)</use>
+    </chinesechar>
+</chinesechars>
