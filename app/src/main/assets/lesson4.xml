@@ -6,7 +6,7 @@
         <pinyin>Xìng</pinyin>
         <mean>nama keluarga, nama akhir</mean>      
         <clue>karakter wanita dan tiang burung menclok </clue>
-		<use>我 姓... Wǒ Xìng xxx (Nama keluarga / marga saya)</use>
+		<use>我 姓... Wǒ Xìng xxx (Nama keluarga / marga saya xx)</use>
    </chinesechar>
    <chinesechar>
         <tone>4</tone>
@@ -14,15 +14,46 @@
         <pinyin>Guì</pinyin>
         <mean>berharga, terhormat</mean>      
         <clue>seperti manusia gemuk/bangsawan</clue>
-		<use>貴姓... GuìXìng (Nama keluarga versi sopan)</use>
+		<use>貴姓 GuìXìng (Nama keluarga versi sopan)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>4</tone>
+        <character>問</character>
+        <pinyin>wèn</pinyin>
+        <mean>meminta</mean>      
+        <clue>seperti bibir terbuka</clue>
+		<use>貴姓... Qǐngwèn (permisi - untuk bertanya-)</use>
    </chinesechar>
    <chinesechar>
         <tone>3</tone>
-        <character>貴</character>
+        <character>請</character>
         <pinyin>Qǐng</pinyin>
-        <mean>berharga, terhormat</mean>      
-        <clue>seperti manusia gemuk/bangsawan</clue>
-		<use>貴姓... GuìXìng (Nama keluarga versi sopan)</use>
+        <mean>tolong , memohon</mean>      
+        <clue>orang memohon, kepala dibawah(kotak)</clue>
+		<use>請問... Qǐngwèn(permisi - untuk bertanya-)</use>
    </chinesechar>
-
+   <chinesechar>
+        <tone>4</tone>
+        <character>叫</character>
+        <pinyin>Jiào</pinyin>
+        <mean>memanggil , dipanggil</mean>      
+        <clue>kuping, angka 04</clue>
+		<use>我叫... Wǒ Jiào...(nama panggilan saya-)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>2</tone>
+        <character>什</character>
+        <pinyin>Shén</pinyin>
+        <mean>---</mean>      
+        <clue>dua tiang</clue>
+		<use>什麼... Shénme...(apa -digunakan pertanyaan-)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>5</tone>
+        <character>麼</character>
+        <pinyin>me</pinyin>
+        <mean>---</mean>      
+        <clue>akar bagi</clue>
+		<use>什麼... Shénme...(apa -digunakan pertanyaan-)</use>
+   </chinesechar>
 </chinesechars>
