@@ -39,7 +39,13 @@ public class CharFragment extends Fragment {
     private ListView listView;
     //define list
     String[] values = new String[] {
-            "Characters Lesson 1: Classroom Term"
+            "Characters Lesson 1: Classroom Term", //index 0
+            "Characters Lesson 2: Everyday Term",
+            "Characters Lesson 3: Good morning",
+            "Characters Lesson 4: What is your name?",
+            "Characters Lesson 5: What is this?",
+            "Characters Lesson 6: What time is it",
+            "Characters Lesson 7: What do you like"
     };
 
     public CharFragment() {
@@ -91,9 +97,46 @@ public class CharFragment extends Fragment {
                 switch(position){
                     case 0:
                         intent = new Intent(getActivity(),MainActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        intent.putExtra("LessonNumber", 0);
                         getContext().startActivity(intent);
                         break;
-
+                    case 1:
+//                        intent = new Intent(getActivity(),MainActivity.class);
+//                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                        intent.putExtra("LessonNumber", 1);
+//                        getContext().startActivity(intent);
+                        break;
+                    case 2:
+                        intent = new Intent(getActivity(),MainActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        intent.putExtra("LessonNumber", 2);
+                        getContext().startActivity(intent);
+                        break;
+                    case 3:
+                        intent = new Intent(getActivity(),MainActivity.class);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        intent.putExtra("LessonNumber", 3);
+                        getContext().startActivity(intent);
+                        break;
+                    case 4:
+//                        intent = new Intent(getActivity(),MainActivity.class);
+//                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                        intent.putExtra("LessonNumber", 4);
+//                        getContext().startActivity(intent);
+                        break;
+                    case 5:
+//                        intent = new Intent(getActivity(),MainActivity.class);
+//                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                        intent.putExtra("LessonNumber", 5);
+//                        getContext().startActivity(intent);
+                        break;
+                    case 6:
+//                        intent = new Intent(getActivity(),MainActivity.class);
+//                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//                        intent.putExtra("numOfChars",6);
+//                        getContext().startActivity(intent);
+                        break;
                     //add more if you have more items in listview
                     //0 is the first item 1 second and so on...
                 }

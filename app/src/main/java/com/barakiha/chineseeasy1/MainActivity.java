@@ -20,6 +20,8 @@ import com.barakiha.chineseeasy1.Util.FlingCardListener;
 import com.barakiha.chineseeasy1.Util.SwipeFlingAdapterView;
 import com.barakiha.chineseeasy1.Util.XMLPullParserHandler;
 
+import org.w3c.dom.Text;
+
 import java.io.IOException;
 import java.util.List;
 
@@ -27,6 +29,15 @@ public class MainActivity extends AppCompatActivity implements FlingCardListener
 
     public static MyAppAdapter myAppAdapter;
     public static ViewHolder viewHolder;
+
+    //updating status
+    private TextView statusSeqChar;
+    private int seqNumber;
+    private int numOfChars;
+    private int numRememberedChar;
+    private int numForgottenChar;
+
+
 //    private ArrayList<Data> al;
     private List<CharLesson> chinesechars = null;
     private SwipeFlingAdapterView flingContainer;
@@ -35,9 +46,12 @@ public class MainActivity extends AppCompatActivity implements FlingCardListener
     private Runnable mUpdateTimeTask = new Runnable() {
         public void run() {
             // do what you need to do here after the delay
-            Intent intent=new Intent(getApplicationContext(),Main2Activity.class);
+            Intent intent=new Intent(getApplicationContext(),CharEvaluationActivity.class);
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            intent.putExtra("numOfChars", numOfChars);
+            intent.putExtra("numOfRemembered", numRememberedChar);
             getApplicationContext().startActivity(intent);
+
         }
     };
 
@@ -51,14 +65,31 @@ public class MainActivity extends AppCompatActivity implements FlingCardListener
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //initial set to zero
+        seqNumber=0;
+        numOfChars=0;
+        numForgottenChar=0;
+        numRememberedChar=0;
+        statusSeqChar=(TextView) findViewById(R.id.status_seq_char);
         flingContainer = (SwipeFlingAdapterView) findViewById(R.id.frame);
         //xml read
+        Intent mIntent = getIntent();
+        int lessonNumber = mIntent.getIntExtra("LessonNumber", 0)+1;
+        String fileName="lesson"+lessonNumber+".xml";
         try {
             XMLPullParserHandler parser = new XMLPullParserHandler();
-            chinesechars = parser.parse(getAssets().open("lesson1.xml"));
+            chinesechars = parser.parse(getAssets().open(fileName));
+            numOfChars=chinesechars.size();
         } catch (IOException e) {
-            e.printStackTrace();
+            //e.printStackTrace();
+            Toast.makeText(getApplicationContext(),"No material found",Toast.LENGTH_SHORT);
+            Intent intent = new Intent(this,Main2Activity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            intent.putExtra("LessonNumber", 1);
+            getApplicationContext().startActivity(intent);
         }
+
+        statusSeqChar.setText(seqNumber+" / "+numOfChars);
 
         myAppAdapter = new MyAppAdapter(chinesechars, MainActivity.this);
         flingContainer.setAdapter(myAppAdapter);
@@ -70,26 +101,32 @@ public class MainActivity extends AppCompatActivity implements FlingCardListener
 
             @Override
             public void onLeftCardExit(Object dataObject) {
+                //not remembered yet
                 chinesechars.remove(0);
                 myAppAdapter.notifyDataSetChanged();
+                numForgottenChar++;
                 checkAvailableItems();
-                //Do something on the left!
-                //You also have access to the original object.
-                //If you want to use it just cast it (String) dataObject
+               // Toast.makeText(getApplicationContext(),"onleftexit",Toast.LENGTH_SHORT).show();
 
             }
 
             @Override
             public void onRightCardExit(Object dataObject) {
-
+                //already remembered
                 chinesechars.remove(0);
                 myAppAdapter.notifyDataSetChanged();
+                numRememberedChar++;
                 checkAvailableItems();
+               // Toast.makeText(getApplicationContext(),"onrightexit",Toast.LENGTH_SHORT).show();
             }
 
             public void checkAvailableItems(){
-                if(myAppAdapter.getCount()<1){
-                    mHandler.postDelayed(mUpdateTimeTask, 300);
+                seqNumber++;
+                statusSeqChar.setText(seqNumber+" / "+numOfChars);
+                if(myAppAdapter!=null){
+                    if(myAppAdapter.getCount()<1){
+                        mHandler.postDelayed(mUpdateTimeTask, 300);
+                    }
                 }
             }
 

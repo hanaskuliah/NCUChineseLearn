@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+	<chinesechar>
+        <tone>1</tone>
+        <character>一</character>
+        <pinyin>yī</pinyin>
+        <mean>one</mean>      
+        <clue></clue>
+		<use>一月 yī yuè(january)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>二</character>
+        <pinyin>èr</pinyin>
+        <mean>two</mean>      
+        <clue></clue>
+		<use>二月 èr yuè（february）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>三</character>
+        <pinyin>sān</pinyin>
+        <mean>three</mean>      
+        <clue></clue>
+		<use>三月 sān yuè （march）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>四</character>
+        <pinyin>sì</pinyin>
+        <mean>four</mean>      
+        <clue></clue>
+		<use>四月 sì yuè （april）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>五</character>
+        <pinyin>wǔ</pinyin>
+        <mean>five</mean>      
+        <clue></clue>
+		<use>五月 wǔ yuè（may）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>六</character>
+        <pinyin>liù</pinyin>
+        <mean>six</mean>      
+        <clue></clue>
+		<use>六月 liù yuè (june)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>七</character>
+        <pinyin>qī</pinyin>
+        <mean>seven</mean>      
+        <clue></clue>
+		<use>七月 qī yuè (july)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>八</character>
+        <pinyin>bā</pinyin>
+        <mean>eight</mean>      
+        <clue></clue>
+		<use>八月 bā yuè (august)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>九</character>
+        <pinyin>jiǔ</pinyin>
+        <mean>nine</mean>      
+        <clue></clue>
+		<use>九月 jiǔ yuè （september）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>2</tone>
+        <character>十</character>
+        <pinyin>shí</pinyin>
+        <mean>ten</mean>      
+        <clue></clue>
+		<use>十月 shí yuè (october)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>4</tone>
+        <character>現</character>
+        <pinyin>xiàn</pinyin>
+        <mean>now</mean>      
+        <clue></clue>
+		<use>現在 xiànzài(now)</use>
+    </chinesechar>
+    <chinesechar>
+        <tone>4</tone>
+        <character>在</character>
+        <pinyin>zài</pinyin>
+        <mean>in</mean>       
+        <clue>-</clue>
+		<use>現在 xiànzài(now)</use>
+    </chinesechar>   
+    <chinesechar>
+        <tone>3</tone>
+        <character>幾</character>
+        <pinyin>jǐ</pinyin>
+        <mean>how many/how much</mean>      
+        <clue></clue>
+		<use>現在幾點 xiànzài jǐ diǎn? （what time is it?） </use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>點</character>
+        <pinyin>diǎn</pinyin>
+        <mean>time</mean>      
+        <clue></clue>
+		<use>現在幾點 xiànzài jǐ diǎn? （what time is it?）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>分</character>
+        <pinyin>fēn</pinyin>
+        <mean>minute</mean>      
+        <clue>-</clue>
+		<use>十分 shí fēn (ten minutes)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>今</character>
+        <pinyin>jīn</pinyin>
+        <mean>this</mean>      
+        <clue>-</clue>
+		<use>今天 jīntiān （today）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>天</character>
+        <pinyin>tiān</pinyin>
+        <mean>day</mean>      
+        <clue>-</clue>
+		<use>今天 jīntiān （today）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>號</character>
+        <pinyin>hào</pinyin>
+        <mean>day of the month</mean>      
+        <clue>-</clue>
+		<use>今天幾號 jīntiān jǐ hào (what date is it today?) </use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>星期</character>
+        <pinyin>xīng qī</pinyin>
+        <mean>day of the week</mean>      
+        <clue></clue>
+		<use>星期一 xīngqī yī （first day of the week）</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>生</character>
+        <pinyin>shēng </pinyin>
+        <mean>living</mean>      
+        <clue></clue>
+		<use>生日 shēngrì （birthday） </use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>生</character>
+        <pinyin>rì </pinyin>
+        <mean>day</mean>      
+        <clue></clue>
+		<use>生日 shēngrì （birthday） </use>
+    </chinesechar>
+	時shi候hou?
+	<chinesechar>
+        <tone>2</tone>
+        <character>時</character>
+        <pinyin>shí</pinyin>
+        <mean>time</mean>      
+        <clue></clue>
+		<use>時候 shíhòu (time) </use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>候</character>
+        <pinyin>hòu</pinyin>
+        <mean>wait</mean>      
+        <clue></clue>
+		<use>時候 shíhòu (time) </use>
+    </chinesechar>
+</chinesechars> 

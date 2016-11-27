@@ -6,86 +6,358 @@
         <pinyin>fā</pinyin>
         <mean>rambut</mean>      
         <clue>Ruwet kayak rambut</clue>
-		<use>發音 fāyīn (pronounciation)</use>
+		<use>發音 fāyīn (pengucapan)</use>
     </chinesechar>
     <chinesechar>
         <tone>1</tone>
         <character>音</character>
         <pinyin>yīn</pinyin>
         <mean>suara</mean>       
-        <clue>-</clue>
-		<use>發音 fāyīn (pronounciation)</use>
+        <clue>bersedekap dengan tongkat dibahu</clue>
+		<use>發音 fāyīn (pengucapan)</use>
     </chinesechar>   
     <chinesechar>
         <tone>1</tone>
         <character>聲</character>
         <pinyin>Shēng</pinyin>
         <mean>suara</mean>      
-        <clue>-</clue>
-		<use>聲調 Shēngdiào (intonation)</use>
+        <clue>berdiri 1 kaki dengan 4 karakter di atasnya</clue>
+		<use>聲調 Shēngdiào (intonasi)</use>
     </chinesechar>
 	<chinesechar>
         <tone>4</tone>
         <character>調</character>
         <pinyin>diào</pinyin>
         <mean>nada</mean>      
-        <clue>-</clue>
-		<use>聲調 Shēngdiào (intonation)</use>
+        <clue>topeng zombie rambut sigar ke kanan</clue>
+		<use>聲調 Shēngdiào (intonasi)</use>
     </chinesechar>
 	<chinesechar>
         <tone>4</tone>
         <character>練</character>
         <pinyin>Liàn</pinyin>
-        <mean>practice</mean>      
-        <clue>-</clue>
-		<use>練習 Liànxí (exercise)</use>
+        <mean>Latihan</mean>      
+        <clue>tripod camera berkeringat</clue>
+		<use>練習 Liànxí (latihan)</use>
     </chinesechar>
 	<chinesechar>
         <tone>2</tone>
         <character>習</character>
         <pinyin>xí</pinyin>
-        <mean>learning</mean>      
-        <clue>-</clue>
-		<use>練習 Liànxí (exercise)</use>
+        <mean>Belajar</mean>      
+        <clue>Mirip wajahnya squidward (hadap kiri) saat mulut terbuka</clue>
+		<use>練習 Liànxí (latihan)</use>
     </chinesechar>
 	<chinesechar>
         <tone>3</tone>
         <character>請</character>
         <pinyin>Qǐng</pinyin>
-        <mean>please</mean>      
-        <clue>-</clue>
-		<use>請看第 Qǐngkàndì (please turn to..)</use>
+        <mean>silahkan</mean>      
+        <clue>kambing hadap kiri bawa barang</clue>
+		<use>請看第 Qǐngkàndì (silahkan buka ke..)</use>
     </chinesechar>
 	<chinesechar>
         <tone>4</tone>
         <character>看</character>
         <pinyin>kàn</pinyin>
-        <mean>learning</mean>      
-        <clue>-</clue>
-		<use>請看第 Qǐngkàndì (please turn to..)</use>
+        <mean>buka/lihat/baca</mean>      
+        <clue>naga diatas kursi tukang pangsit</clue>
+		<use>請看第 Qǐngkàndì (silahkan buka ke..)</use>
     </chinesechar>
 	<chinesechar>
         <tone>4</tone>
         <character>第</character>
         <pinyin>dì</pinyin>
-        <mean>learning</mean>      
-        <clue>-</clue>
-		<use>請看第 Qǐngkàndì (please turn to..)</use>
+        <mean>(semacam prefix sebelum angka)</mean>      
+        <clue>KaKak mau terbang</clue>
+		<use>請看第 Qǐngkàndì (silahkan buka ke..)</use>
     </chinesechar>
 		<chinesechar>
         <tone>4</tone>
         <character>課</character>
         <pinyin>Kè</pinyin>
-        <mean>lesson</mean>      
-        <clue>-</clue>
-		<use>課 Kè (lesson)</use>
+        <mean>pelajaran/bab/kelas</mean>      
+        <clue>robot cumi bawa tumpukan buku</clue>
+		<use>課 Kè (pelajaran ke)</use>
     </chinesechar>
 	<chinesechar>
         <tone>4</tone>
         <character>頁</character>
         <pinyin>Yè</pinyin>
-        <mean>Page</mean>      
-        <clue>-</clue>
-		<use>頁 Yè (page)</use>
+        <mean>halaman</mean>      
+        <clue>rak buku berjalan</clue>
+		<use>頁 Yè (halaman)</use>
     </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>跟</character>
+        <pinyin>Gēn</pinyin>
+        <mean>perkataan</mean>      
+        <clue>anak dengan bapak R</clue>
+		<use>跟我说 Gēn wǒ shuō (ulangi perkataan saya)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>说</character>
+        <pinyin>Shuō</pinyin>
+        <mean>katakan</mean>      
+        <clue>I robot kuat</clue>
+		<use>跟我说 Gēn wǒ shuō (ulangi perkataan saya)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>輕</character>
+        <pinyin>Qīng</pinyin>
+        <mean>lemah/lembut adj</mean>      
+        <clue>nunjukin arak masuk ke kotak pos yang di sebelah kiri</clue>
+		<use>輕聲 Qīng shēng (nada yang ringan)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>很</character>
+        <pinyin>Hěn</pinyin>
+        <mean>sangat/cukup</mean>      
+        <clue>I.R. insinyur</clue>
+		<use>很好 Hěn hǎo (sangat bagus)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>好</character>
+        <pinyin>Hǎo</pinyin>
+        <mean>bagus</mean>      
+        <clue>seorang kasir (kiri) dan loketnya (kanan)</clue>
+		<use>很好 Hěn hǎo (sangat bagus)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>不</character>
+        <pinyin>Bù</pinyin>
+        <mean>tidak</mean>      
+        <clue>akar bercabang 3</clue>
+		<use>對不對 Duì bùduì (benar apa tidak?)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>對</character>
+        <pinyin>Duì</pinyin>
+        <mean>benar/tepat</mean>      
+        <clue>kaktus dan berakhiran huruf T kebalik</clue>
+		<use>對不對 Duì bùduì (benar apa tidak?)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>5</tone>
+        <character>了</character>
+        <pinyin>Le</pinyin>
+        <mean>jelas</mean>      
+        <clue>angka tiga (3) kebalik arah</clue>
+		<use>對了 Duìle (Benar banget)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>懂</character>
+        <pinyin>Dǒng</pinyin>
+        <mean>mengerti</mean>      
+        <clue>tongkat dan siluman tengkorak</clue>
+		<use>懂不懂 Dǒng bù dǒng (apa (kamu) mengerti?)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>5</tone>
+        <character>嗎</character>
+        <pinyin>ma</pinyin>
+        <mean>untuk pertanyaan ya/tidak</mean>      
+        <clue>nyamuk menghadap ke kiri</clue>
+		<use>好了嗎 Hǎole ma(sudah selesai?)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>2</tone>
+        <character>還</character>
+        <pinyin>Hái</pinyin>
+        <mean>belum/yet/not yet</mean>      
+        <clue>akar pohon, raja bermahkota melompat</clue>
+		<use>還沒好 Hái méi hǎo(masih belum selesai)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>再</character>
+        <pinyin>Zài</pinyin>
+        <mean>lagi</mean>      
+        <clue>detonator bom atau alat tambal ban</clue>
+		<use>再說一次 Zài shuō yī cì(katakan sekali lagi)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>說</character>
+        <pinyin>shuō</pinyin>
+        <mean>katakan/bilang</mean>      
+        <clue>Robot mengangkat tumpukan buku di kirinya</clue>
+		<use>再說一次 Zài shuō yī cì(katakan sekali lagi)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>一</character>
+        <pinyin>yī</pinyin>
+        <mean>satu</mean>      
+        <clue>satu strip/sret horizontal</clue>
+		<use>再說一次 Zài shuō yī cì(katakan sekali lagi)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>次</character>
+        <pinyin>cì</pinyin>
+        <mean>waktu/lagi</mean>      
+        <clue>orang kayak lagi taichi</clue>
+		<use>再說一次 Zài shuō yī cì(katakan sekali lagi)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>大</character>
+        <pinyin>Dà</pinyin>
+        <mean>besar/lebih</mean>      
+        <clue>akar dengan 2 ujung akar</clue>
+		<use>大聲 Dà shēng((katakan) lebih keras)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>把</character>
+        <pinyin>Bǎ</pinyin>
+        <mean>itu/ambil</mean>      
+        <clue>monster hadap kanan bilang "ba"</clue>
+		<use>把書打開 Bǎ shū dǎkāi(buka bukumu)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>1</tone>
+        <character>書</character>
+        <pinyin>shū</pinyin>
+        <mean>buku</mean>      
+        <clue>tumpukan buku</clue>
+		<use>把書打開 Bǎ shū dǎkāi(buka bukumu)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>3</tone>
+        <character>打開</character>
+        <pinyin>Dǎkāi</pinyin>
+        <mean>Buka</mean>      
+        <clue>huruf I.T dan pintu koboi ada kursinya</clue>
+		<use>把書打開 Bǎ shū dǎkāi(buka bukumu)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>2</tone>
+        <character>闔</character>
+        <pinyin>hé</pinyin>
+        <mean>tutup</mean>      
+        <clue>pintu koboi yang ada kue ultahnya</clue>
+		<use>把書闔上 Bǎ shū hé shàng(tutup bukumu)</use>
+    </chinesechar>
+	<chinesechar>
+        <tone>4</tone>
+        <character>上</character>
+        <pinyin>shàng</pinyin>
+        <mean>on(english)/di</mean>      
+        <clue>huruf T kebalik dan mulai tumbuh</clue>
+		<use>把書闔上 Bǎ shū hé shàng(tutup bukumu)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>3</tone>
+        <character>有</character>
+        <pinyin>Yǒu</pinyin>
+        <mean>mempunyai</mean>      
+        <clue>orang nunjuk ke kanan terus bilang kamuu</clue>
+		<use>有沒有問題 Yǒu méiyǒu wèntí(ada pertanyaan atau tidak?)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>問</character>
+        <pinyin>wèn</pinyin>
+        <mean>meminta/bertanya</mean>      
+        <clue>Pintu koboi yang ada kotakannya</clue>
+		<use>有沒有問題 Yǒu méiyǒu wèntí(ada pertanyaan atau tidak?)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>題</character>
+        <pinyin>tí</pinyin>
+        <mean>pertanyaan</mean>      
+        <clue>orang jegal anak kecil/ perahu dengan 2 layar</clue>
+		<use>有沒有問題 Yǒu méiyǒu wèntí(ada pertanyaan atau tidak?)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>1</tone>
+        <character>功</character>
+        <pinyin>Gōng</pinyin>
+        <mean>pekerjaan</mean>      
+        <clue>Huruf I mengejar huruf n</clue>
+		<use>功課 Gōngkè(Pekerjaan rumah)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>1</tone>
+        <character>聽</character>
+        <pinyin>Tīng</pinyin>
+        <mean>Mendengarkan</mean>      
+        <clue>Pastur yang membawa bendera di kirinya</clue>
+		<use>聽寫 Tīngxiě(Dikte/pengarahan/guru baca kita menulis)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>3</tone>
+        <character>寫</character>
+        <pinyin>xiě</pinyin>
+        <mean>Menulis</mean>      
+        <clue>wajah orang hadap kiri ketawa dan pilek</clue>
+		<use>聽寫 Tīngxiě(Dikte/pengarahan/guru baca kita menulis)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>3</tone>
+        <character>考</character>
+        <pinyin>Kǎo</pinyin>
+        <mean>tes/ujian</mean>      
+        <clue>Orang menari sedikit menunduk, kakinya kaya angka 5</clue>
+		<use>考试 Kǎoshì(tes)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>试</character>
+        <pinyin>Shì</pinyin>
+        <mean>tes/ujian</mean>      
+        <clue>(kalau ada ujian bicara kotor)shiiiiiii i.I.t</clue>
+		<use>考试 Kǎoshì(tes)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>下</character>
+        <pinyin>Xià</pinyin>
+        <mean>bawah/selesai</mean>      
+        <clue>Akar dengan 1 ujung akar panjang dan 1 pendek</clue>
+		<use>下課 Xià kè(Kelas selesai)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>1</tone>
+        <character>休</character>
+        <pinyin>Xiū</pinyin>
+        <mean>istirahat</mean>      
+        <clue>tongsis dan tripod sebelahan</clue>
+		<use>休息 Xiūxí(istirahat)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>2</tone>
+        <character>息</character>
+        <pinyin>xí</pinyin>
+        <mean>istirahat</mean>      
+        <clue>spirit away, seperti casper mau terbang</clue>
+		<use>休息 Xiūxí(istirahat)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>測</character>
+        <pinyin>Cè</pinyin>
+        <mean>mengukur</mean>      
+        <clue>robot rak buku bersanding pacul dikanannya</clue>
+		<use>測驗 Cèyàn(kuis)</use>
+    </chinesechar>	
+	<chinesechar>
+        <tone>4</tone>
+        <character>驗</character>
+        <pinyin>tes/ujian/check</pinyin>
+        <mean>istirahat</mean>      
+        <clue>topeng hadap kiri dan ada rumah di kanannya</clue>
+		<use>測驗 Cèyàn(kuis)</use>
+    </chinesechar>	
 </chinesechars> 
