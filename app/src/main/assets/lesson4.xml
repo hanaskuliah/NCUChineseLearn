@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chinesechars>
+   <chinesechar>
+        <tone>4</tone>
+        <character>姓</character>
+        <pinyin>Xìng</pinyin>
+        <mean>nama keluarga, nama akhir</mean>      
+        <clue>karakter wanita dan tiang burung menclok </clue>
+		<use>我 姓... Wǒ Xìng xxx (Nama keluarga / marga saya)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>4</tone>
+        <character>貴</character>
+        <pinyin>Guì</pinyin>
+        <mean>berharga, terhormat</mean>      
+        <clue>seperti manusia gemuk/bangsawan</clue>
+		<use>貴姓... GuìXìng (Nama keluarga versi sopan)</use>
+   </chinesechar>
+   <chinesechar>
+        <tone>3</tone>
+        <character>貴</character>
+        <pinyin>Qǐng</pinyin>
+        <mean>berharga, terhormat</mean>      
+        <clue>seperti manusia gemuk/bangsawan</clue>
+		<use>貴姓... GuìXìng (Nama keluarga versi sopan)</use>
+   </chinesechar>
+
+</chinesechars>
